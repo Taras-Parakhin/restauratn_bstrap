@@ -20,8 +20,7 @@
     }
 
     .header__title {
-        margin: 0 auto;
-        margin-top: 200px;
+        margin: 200px auto 0 auto;
     }
 
     .header__title h1 {
